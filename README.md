@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm José Vilson da Cruz</h1>
-<h3 align="center">Data Analyst (Migrating to data engineer)</h3>
+<h3 align="center">Analytics Engineer (Migrating to data engineer)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josevilson&label=Profile%20views&color=0e75b6&style=flat" alt="josevilson" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josevilson" alt="josevilson" /></a> </p>
 
-- 🔭 Now I'm working on ABECIP **Data Analyst**
+- 🔭 Now I'm working on ABECIP **Analytics Engineer**
 
 - 🌱 I’m currently learning **Spark, Airflow, Azure Cloud, DBT, Databricks**
 
