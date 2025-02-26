@@ -7,7 +7,7 @@
 
 - 🔭 Now I'm working on ABECIP **Data Analyst**
 
-- 🌱 I’m currently learning **Spark, Airflow, AWS, DBT, Databricks**
+- 🌱 I’m currently learning **Spark, Airflow, Azure Cloud, DBT, Databricks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/josevilson](https://github.com/josevilson)
 
